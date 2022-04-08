@@ -1,0 +1,50 @@
+{
+  "Disabled": false,
+  "Testing": false,
+  "InstalledFromUrl": null,
+  "IsThirdParty": false,
+  "Author": "Sonar Team",
+  "Name": "Sonar",
+  "Punchline": "自动与其他人共享狩猎怪和危命任务的信息",
+  "Description": "狩猎插件，自动上报&游戏内推送消息。/sonar 打开界面 /sonarconfig 打开配置。这个插件是闭源的，相关支持请访问 Sonar Support Discord",
+  "Changelog": null,
+  "Tags": [
+    "Sonar",
+    "Hunt",
+    "Hunts",
+    "Fate",
+    "Fates",
+    "Relay",
+    "Relays",
+    "Automated",
+    "Automatic"
+  ],
+  "CategoryTags": [
+    "UI"
+  ],
+  "IsHide": false,
+  "InternalName": "SonarPlugin",
+  "AssemblyVersion": "0.4.5.1",
+  "TestingAssemblyVersion": null,
+  "IsTestingExclusive": false,
+  "RepoUrl": "https://discord.gg/K7y24Rr",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 5,
+  "DownloadCount": 154,
+  "LastUpdate": 0,
+  "DownloadLinkInstall": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SonarPlugin&isUpdate=False&isTesting=False&branch=cn-api5",
+  "DownloadLinkUpdate": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SonarPlugin&isUpdate=True&isTesting=False&branch=cn-api5",
+  "DownloadLinkTesting": "https://service-knj2phup-1253720819.sh.apigw.tencentcs.com/release/dalamudcounter-1623520723?plugin=SonarPlugin&isUpdate=False&isTesting=True&branch=cn-api5",
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://assets.ffxivsonar.com/dalamud/image1.png",
+    "https://assets.ffxivsonar.com/dalamud/image2.png",
+    "https://assets.ffxivsonar.com/dalamud/image3.png",
+    "https://assets.ffxivsonar.com/dalamud/image4.png",
+    "https://assets.ffxivsonar.com/dalamud/image5.png"
+  ],
+  "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
+  "AcceptsFeedback": true,
+  "FeedbackMessage": null,
+  "FeedbackWebhook": null
+}
