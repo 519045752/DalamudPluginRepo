@@ -29,7 +29,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1639012577,
-    "DownloadCount": 114514,
+    "DownloadCount": 998,
     "DownloadLinkInstall": "https://github.com/519045752/DalamudPluginRepo/raw/main/plugins/SoNa/latest.zip",
     "DownloadLinkTesting": "https://github.com/519045752/DalamudPluginRepo/raw/main/plugins/SoNa/latest.zip",
     "DownloadLinkUpdate": "https://github.com/519045752/DalamudPluginRepo/raw/main/plugins/SoNa/latest.zip"
@@ -52,7 +52,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/NightmareXIV/Splatoon/archive/refs/tags/2.1.0.1.zip",
         "DownloadLinkUpdate": "https://github.com/NightmareXIV/Splatoon/archive/refs/tags/2.1.0.1.zip",
-        "DownloadCount": 1000,
+        "DownloadCount": 998,
         "LastUpdated": "0"
     },
 ]
