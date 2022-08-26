@@ -33,5 +33,26 @@
     "DownloadLinkInstall": "https://github.com/519045752/DalamudPluginRepo/raw/main/plugins/SoNa/latest.zip",
     "DownloadLinkTesting": "https://github.com/519045752/DalamudPluginRepo/raw/main/plugins/SoNa/latest.zip",
     "DownloadLinkUpdate": "https://github.com/519045752/DalamudPluginRepo/raw/main/plugins/SoNa/latest.zip"
-  }
+  },
+  
+    {
+        "Author": "Eternita",
+        "Name": "Splatoon 2.1.0.1",
+        "Punchline": "Infinite waymarks in the world and target circles.",
+        "Description": "",
+        "InternalName": "Splatoon",
+        "AssemblyVersion": "2.1.0.1",
+        "RepoUrl": "https://github.com/519045752/DalamudPluginRepo/edit/main/repo.json",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/Splatoon/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/Splatoon/archive/refs/tags/2.1.0.1.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/Splatoon/archive/refs/tags/2.1.0.1.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/Splatoon/archive/refs/tags/2.1.0.1.zip",
+        "DownloadCount": 1000,
+        "LastUpdated": "0"
+    },
 ]
